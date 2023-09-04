@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile! Here's a bit about me:
 
-- 👀 **Interest**: Fascinated by machine learning and artificial neural networks (ANNs).
+- 👀 **Interest**: Fascinated by machine learning and artificial neural networks.
 - 🎓 **Learning**: Currently diving into OpenAI API and Langchain.
 - 🤝 **Collaboration**: Eager to collaborate on developing AI applications for educational purposes.
 - 📫 **Get in touch**: Feel free to reach me at: <davide.cavallari__AT__iismajoranamoncalieri.edu.it>
