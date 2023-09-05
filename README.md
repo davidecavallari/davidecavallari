@@ -4,7 +4,7 @@ Welcome to my GitHub profile! Here's a bit about me:
 
 - 👀 **Interest**: machine learning and artificial neural networks.
 - 🎓 **Learning**: OpenAI API and Langchain.
-- 🤝 **Collaboration**: brainstorm AI applications for education.
+- 🤝 **Collaboration**: brainstorm AI applications for improving education.
 - 📫 **Get in touch**: <davide.cavallari__AT__iismajoranamoncalieri.edu.it>
 
 <!---
